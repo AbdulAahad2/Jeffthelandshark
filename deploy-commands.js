@@ -3,8 +3,8 @@ const fs = require('fs');
 const path = require('path');
 
 // Replace with your bot's client ID
-const clientId = '1381727719246663770';
-const token = 'MTM4MTcyNzcxOTI0NjY2Mzc3MA.GPpAFj.Q8xbwgw40lV3dqZspkriIvc11kki5uRM0N5YvU';
+const clientId = 'Client ID';
+const token = 'Bot Token';
 
 // Load commands
 const commands = [];
