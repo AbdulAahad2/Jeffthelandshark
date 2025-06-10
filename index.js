@@ -42,4 +42,4 @@ client.on('interactionCreate', async interaction => {
 });
 
 // Login with bot token
-client.login('MTM4MTcyNzcxOTI0NjY2Mzc3MA.GPpAFj.Q8xbwgw40lV3dqZspkriIvc11kki5uRM0N5YvU'); // Replace with your bot token
+client.login('Bot Token'); // Replace with your bot token
